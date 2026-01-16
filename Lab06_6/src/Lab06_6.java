@@ -44,7 +44,7 @@ public class Lab06_6 {
     // แสดงรูปขนาดใหญ่
     private static void showLargeImage(String path) {
         JFrame imgFrame = new JFrame("รูปขนาดใหญ่");
-        imgFrame.setSize(500, 500);
+        imgFrame.setSize(800, 800);
 
         ImageIcon icon = new ImageIcon(path);
         JLabel imgLabel = new JLabel(icon);
