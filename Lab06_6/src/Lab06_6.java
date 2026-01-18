@@ -17,8 +17,8 @@ public class Lab06_6 {
                 "D:/image.png",
                 "D:/image2.png",
                 "D:/image3.png",
-                "D:/image4.png",
-                "D:/image5.png"
+                "D:/image4.jpg",
+                "D:/image5.jpg"
         };
 
         for (String path : images) {
@@ -55,4 +55,5 @@ public class Lab06_6 {
 
 
 }
+
 
